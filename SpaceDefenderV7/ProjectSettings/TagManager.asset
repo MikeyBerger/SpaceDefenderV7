@@ -3,7 +3,16 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Enemy
+  - Arm
+  - Cursor
+  - SideSpawner2
+  - SideSpawner1
+  - Ship
+  - Laser
+  - ResetButton
+  - MainMenuButton
   layers:
   - Default
   - TransparentFX
@@ -40,4 +49,22 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: BG
+    uniqueID: 1014804923
+    locked: 0
+  - name: PlayerBody
+    uniqueID: 2059540529
+    locked: 0
+  - name: PlayerArm
+    uniqueID: 2841745097
+    locked: 0
+  - name: Weapon
+    uniqueID: 1696604177
+    locked: 0
+  - name: Ship
+    uniqueID: 174705295
+    locked: 0
+  - name: Enemy
+    uniqueID: 3851328071
     locked: 0
